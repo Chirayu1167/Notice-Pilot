@@ -1,0 +1,28 @@
+SYNTHETIC DEMO DATA — NOT A REAL GST NOTICE. Generated for pipeline testing only.
+
+GOODS AND SERVICES TAX — INPUT TAX CREDIT RECONCILIATION
+Form DRC-01C (Reconciliation of Input Tax Credit)
+
+Notice Number: DRC-01C/2024-25/SYN/4004
+Memo No: SYN-MEMO-4004
+
+To,
+M/s FICTITIOUS VENTURES LLP (demo entity)
+GSTIN: 99FAKEA0000B1Z8
+
+Subject: Difference in input tax credit as per GSTR-2B and GSTR-3B for tax period 2024-04.
+
+Dated: 20/05/2024
+
+During the reconciliation of input tax credit for tax period 2024-04, it was
+observed that ITC claimed in GSTR-3B exceeds the credit available in GSTR-2B:
+
+1. ITC as per GSTR-2B: INR 30,000.00
+2. ITC as per GSTR-3B: INR 35,000.00
+3. Difference of INR 5,000.00
+
+You are required to explain the difference of Rs. 5,000.00 and provide the
+reconciliation statement on or before 19/06/2024.
+
+This is a computer-generated synthetic notice for software testing.
+It does not demand any payment and has no legal effect.

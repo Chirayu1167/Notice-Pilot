@@ -1,0 +1,31 @@
+SYNTHETIC DEMO DATA â€” NOT A REAL GST NOTICE. Generated for pipeline testing only.
+
+GOODS AND SERVICES TAX â€” RECONCILIATION STATEMENT
+Form DRC-01B (Reconciliation of Outward Supplies)
+
+Notice No. : DRC-01B/2025-26/SYN/1001
+Reference No: SYN-REF-2025-1001
+DIN: 20250101001
+
+To,
+M/s SYNTHETICAL TRADERS PVT LTD (demo entity)
+GSTIN: 99SYNTA0000A1Z9
+
+Subject: Differences in outward supplies as per GSTR-1 and GSTR-3B for FY 2024-25.
+
+Issue date: 15/01/2025
+
+With reference to the reconciliation exercise under Section 39 read with Rule 61,
+the following difference has been identified in your outward supplies:
+
+1. Taxable value as per GSTR-1: Rs. 12,50,000.00
+2. Taxable value as per GSTR-3B: Rs. 11,00,000.00
+3. Difference of Rs. 1,50,000.00 (tax amount Rs. 27,000.00)
+
+You are required to submit a reply explaining the difference of Rs. 1,50,000.00
+and furnish the supporting records within 30 days of receipt of this notice.
+
+Due date: 14/02/2025
+
+This is a computer-generated synthetic notice for software testing.
+It does not demand any payment and has no legal effect.

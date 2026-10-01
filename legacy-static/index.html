@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>NoticePilot GST</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Newsreader:wght@500;600&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><div class="bar">
+<a class="logo" href="#/dashboard"><i></i>NoticePilot</a>
+<div class="gs"><span class="lbl" style="font-size:10px">GSTIN</span><b>None added</b></div>
+<nav aria-label="Main" id="nav"></nav>
+<label class="srch"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><input placeholder="Search notices, GSTIN, DIN…" aria-label="Search" disabled><kbd>Ctrl K</kbd></label>
+<button class="btn t" onclick="openUpload()">Upload notice</button>
+<button class="ib" aria-label="Notifications" onclick="toast('No notifications')"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9a6 6 0 1 1 12 0c0 6 2 7 2 7H4s2-1 2-7M10 20a2 2 0 0 0 4 0"/></svg></button>
+<a class="prof" href="#/settings" aria-label="Profile and settings"><div class="av"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21c1-5 15-5 16 0"/></svg></div><span>Reviewer<br><small class="mono" style="color:var(--mut)">Not set</small></span></a>
+</div></header>
+<main id="app"></main>
+<footer><span>NoticePilot · GST notice review workspace</span><span>Rule pack: not connected · Review required before submission</span></footer>
+<div id="modal"></div><div id="toast" hidden></div>
+
+<script src="app.js"></script>
+</body>
+</html>
